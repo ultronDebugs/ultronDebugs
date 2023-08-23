@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ultronDebugs, i am a fullstack web developer using react and node.js
 - 👀 I’m interested in Web && Mobile Development
 - 🌱 I’m currently learning Dart/Flutter and any other fun projects
-- 💞️ I’m looking to collaborate on All this Web Dev 
+- 💞️ I’m looking to collaborate on All things Web Dev 
 - 📫 How to reach me Muftahudddeenabba@gmail.com || +2347083187511
 
 <!---
