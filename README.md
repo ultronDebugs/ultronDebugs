@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack Developer** based in Kaduna, Nigeria, with a keen interest in **Web Development**, **Web3**, and **Mobile Development**. I love collaborating on **open-source projects** and enjoy the thrill of bringing innovative ideas to life through code.
 
 ### 💻 Technologies & Tools
-- **Languages:** TypeScript (Node.js, React, React Native), HTML, CSS, Dart (Flutter)
+- **Languages:** Python, Rust(Rocket) TypeScript, (Node.js, React, React Native), HTML, CSS, Dart (Flutter)
 - **Frameworks:** Express.js, React, Flutter
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools:** Git, Docker, Jenkins
